@@ -1,6 +1,6 @@
 <h1 align="center"> 👨‍💻 Hi! I'm Arnold Gallegos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><img src="https://user-images.githubusercontent.com/108824074/208310711-205b6b4a-f445-4215-bbc4-0ebfcbde5259.jpg"></p>
-<h2 align="center"> I'm a Front-End Developer💻</h2>
+<h2 align="center"> I'm a FullStack Developer💻</h2>
 
 ## 💼 Technical Skills   
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
