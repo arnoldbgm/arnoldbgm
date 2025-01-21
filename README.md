@@ -16,7 +16,7 @@
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📈 GitHub Stats 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldbgm&theme=algolia" alt="linder3hs"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldbgm&theme=algolia" alt="arnoldbgm"  /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldbgm&layout=compact&theme=algolia"></p>
 
